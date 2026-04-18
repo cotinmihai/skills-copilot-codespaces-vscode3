@@ -1,4 +1,4 @@
-// Create a web server from scratch
+// Create web server
 
 const server = http.createServer((req, res) => {
     res.statusCode = 200;
